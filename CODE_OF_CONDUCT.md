@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# Contributor Covenant Code of Conduct --edited #30/11/2024
 
 ## Our Pledge
 
